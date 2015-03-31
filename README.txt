@@ -1,0 +1,1 @@
+Zde je tøída k vytvoøení seznamu. Staèí zadat typ seznamu a pak u zadáváme jen postupnì jen jednotlivé poloky. Pøíklad jak tøídu pouívat je v souboru priklad.php
